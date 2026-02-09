@@ -1,0 +1,11 @@
+{
+    "safe_networks": ["Ev_WiFi", "Ofis_WiFi"],
+    "alert_thresholds": {
+        "max_connections": 50,
+        "traffic_mb_limit": 500
+    },
+    "monitoring": {
+        "check_interval": 5,
+        "mic_camera_watch": true
+    }
+}

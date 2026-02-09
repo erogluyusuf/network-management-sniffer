@@ -1,0 +1,4 @@
+dbus-python
+PyGObject
+psutil
+Pillow
